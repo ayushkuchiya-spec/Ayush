@@ -1,0 +1,6 @@
+{
+  "name": "Shift Alarm",
+  "description": "Custom repeating shift schedule alarm manager for shift duty workers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
